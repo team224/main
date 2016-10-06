@@ -10,7 +10,10 @@ nav ul a,
 nav .brand-logo {
   
 }
-
+img.animated-gif{
+  width: auto;
+  height: auto;
+}
 p {
   line-height: 2rem;
 }
