@@ -77,6 +77,15 @@ p {
         display:block !important;
     }
 }
+@media (max-width: 991px) {
+    .mobile-only {
+        display:block !important;
+    }
+ 
+    .desktop-only {
+        display:none !important;
+    }
+}
 
 .icon-block {
   padding: 0 15px;
