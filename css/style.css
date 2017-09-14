@@ -72,6 +72,11 @@ p {
     top: 0;
   }
 }
+@media (min-width:994px) {
+    .desktop-only {
+        display:block !important;
+    }
+}
 
 .icon-block {
   padding: 0 15px;
