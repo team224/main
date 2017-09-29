@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="theme-color" content="#FBC02D" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>PHS Robotics Team 224</title>
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+    <nav class="grey darken-4" role="navigation">
+    <div class="nav-wrapper container">
+	    <a id="logo-container" href="index.html" class="desktop-only brand-logo center">  <p style="font-weight:600;font-size: 1.7rem;    line-height: 1rem;">Piscataway FIRST Robotics</p></a>
+      <a id="logo-container" href="index.html" class="brand-logo">  <img class="responsive-img" width="144" height="auto" src="logo.gif"></a>
+      <ul class="right hide-on-med-and-down">
+  
+ 
+        <li><a href="members.html">Members</a></li>
+	      <li><a href="sponsor.html">Sponsors</a></li>
+      </ul>
+      <ul id="nav-mobile" class="side-nav">
+        
+        
+        <li><a href="members.html">Members</a></li>
+	      <li><a href="sponsor.html">Sponsors</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+
+
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+    <ul>
+      <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
+      <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+      <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+      <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+    </ul>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <footer class="page-footer yellow darken-2">
+    <div class="container">
+      <div class="row">
+        <div class="col s5">
+          <h5 class="white-text">Contact Us</h5>
+          <p class="grey-text text-lighten-4"> You can contact us with any questions/inquires at: phsrobotics@team224.com</p>
+
+
+        </div>
+        <div class="col s3">
+          <h5 class="white-text">Social Media</h5>
+          <ul>
+            <li><a class="white-text" href="https://www.instagram.com/frcteam224/?hl=en" target="_blank">Instagram</a></li>
+            <li><a class="white-text" href="https://www.facebook.com/team224/" target="_blank">Facebook</a></li>
+            <li><a class="white-text modal-trigger" href="#modal1">Remind</a></li>
+
+            <div id="modal1" class="modal">
+              <div class="modal-content">
+                <h4>Remind</h4>
+                <p>To recieve reminds for Robotics, text @team224 to 81010.</p>
+		      <div class="video-container"><script src="https://widgets.remind.com/iframe.js?token=d109c2f060c4013450e20242ac110006&height=645&join=true"></script></div>
+              </div>
+              <div class="modal-footer">
+                <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Ok</a>
+              </div>
+            </div>
+		  
+		  
+
+          </ul>
+	      </div>
+	    <div class="col s4">
+		    <h5 class="white-text center">Special Thanks To Our Sponsors</h5>
+		      <img class="responsive-img" src="sponsors (1).png">
+	      </div>
+	    </div>
+	      
+	      
+		      
+	      
+      
+    </div>
+    <div class="footer-copyright grey darken-4">
+      <div class="container">
+      <p class="sss"></p>
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script>if (!window.jQuery) { document.write('<script src="bin/jquery-2.1.1.min.js"><\/script>'); }
+  </script>
+<script src="https://ronakstudios.github.io/sweetheart/js/typed.js"></script>
+	<script>
+   
+    $(function(){
+        $(".sss").typed({
+            strings: ["Coded By <font color=\"#f44336\">R</font><font color=\"#ff5722\">o</font><font color=\"#ff9800\">n</font><font color=\"#ffc107\">a</font><font color=\"#ffeb3b\">k</font> <font color=\"#8bc34a\">P</font><font color=\"#4caf50\">a</font><font color=\"#2196f3\">r</font><font color=\"#3f51b5\">i</font><font color=\"#673ab7\">k</font><font color=\"#9c27b0\">h</font>","PHS FIRST Robotics Team 224"],
+            typeSpeed: 0,
+            loop: true,
+            backDelay: 2000,
+            showCursor: false
+        });
+    });
+ 
+</script>
+  <script src="js/jquery.timeago.min.js"></script>
+  <script src="js/prism.js"></script>
+  <script src="jade/lunr.min.js"></script>
+  <script src="jade/search.js"></script>
+  <script src="bin/materialize.js"></script>
+
+  </body>
+</html>
