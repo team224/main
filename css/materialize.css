@@ -4660,8 +4660,9 @@ small {
 }
 
 .card .card-content {
-  padding: 20px;
+  padding: 22px;
   border-radius: 0 0 2px 2px;
+  background:rgb(88, 88, 88);
 }
 
 .card .card-content p {
@@ -4694,7 +4695,7 @@ small {
 .card .card-reveal {
   padding: 20px;
   position: absolute;
-  background-color: #fff;
+  background-color: rgb(88, 88, 88);
   width: 100%;
   overflow-y: auto;
   top: 100%;
