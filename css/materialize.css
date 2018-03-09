@@ -2635,7 +2635,7 @@ ul li {
 }
 
 a {
-  color: #039be5;
+  color: rgb(251, 192, 45);
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
 }
