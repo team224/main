@@ -6854,13 +6854,13 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav a {
-  color: rgba(0, 0, 0, 0.87);
+ color: rgb(70, 70, 70);
   display: block;
-  font-size: 14px;
+  font-size: 25px;
   font-weight: 500;
-  height: 48px;
-  line-height: 48px;
-  padding: 0 32px;
+  height: 50px;
+  line-height: 100px;
+  padding: 0 37px;
 }
 
 .side-nav a:hover {
