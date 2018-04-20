@@ -9,7 +9,7 @@ you can host it on your own computer or raspberry pi or something! Anyways, here
 the website. First, you should get an understanding of how HTML, JavaScript, and CSS works. HTML is so simple 
 I dont consider it to be a programming language. Next you should know that the elements on this website are part
 of a library called Materialize CSS which uses Google's Material Design, so you might want to read this:
-https://material.io/guidelines/ and also look at this http://materializecss.com/ Furthermore, design and aesthetic
+http://archives.materializecss.com/0.100.2/ and also look at this http://materializecss.com/ Furthermore, design and aesthetic
 are more important than winning or even having a fully functioning webpage so dont screw it up. I am also a designer
 and 3d animator, I recommend you learn how to use Adobe Illustrator for graphics, Adobe After Effects for simple 
 2d graphics, and Cinema4D for actual 3d animating. I dont think our website uses any 3d graphics at the moment (I 
