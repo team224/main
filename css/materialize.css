@@ -2782,7 +2782,7 @@ video.responsive-video {
   float: none;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   .pagination {
     width: 100%;
   }
@@ -2889,7 +2889,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   .hide-on-med-and-down {
     display: none !important;
   }
@@ -2901,7 +2901,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 600px) and (max-width: 1534px) {
   .hide-on-med-only {
     display: none !important;
   }
@@ -2919,7 +2919,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 600px) and (max-width: 1534px) {
   .show-on-medium {
     display: block !important;
   }
@@ -2937,7 +2937,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   .show-on-medium-and-down {
     display: block !important;
   }
@@ -3009,7 +3009,7 @@ td, th {
   border-radius: 2px;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   table.responsive-table {
     width: 100%;
     border-collapse: collapse;
@@ -4092,7 +4092,7 @@ nav .nav-wrapper {
   height: 100%;
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1534px) {
   nav a.button-collapse {
     display: none;
   }
@@ -4126,7 +4126,7 @@ nav .brand-logo.center {
           transform: translateX(-50%);
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   nav .brand-logo {
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -4307,7 +4307,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1534px) {
   html {
     font-size: 14.5px;
   }
@@ -4723,7 +4723,7 @@ small {
   }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 992px) {
+@media only screen and (min-width: 601px) and (max-width: 1534px) {
   #toast-container {
     left: 5%;
     bottom: 7%;
@@ -4783,7 +4783,7 @@ small {
   }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 992px) {
+@media only screen and (min-width: 601px) and (max-width: 1534px) {
   .toast {
     float: left;
   }
@@ -5299,7 +5299,7 @@ button.btn-floating {
   will-change: top, opacity;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   .modal {
     width: 80%;
   }
@@ -5957,7 +5957,7 @@ textarea.materialize-textarea + label:after {
   margin-left: 3rem;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   .input-field .prefix ~ input {
     width: 86%;
     width: calc(100% - 3rem);
@@ -6991,7 +6991,7 @@ input[type=range]:focus::-ms-fill-upper {
   left: auto;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1534px) {
   .side-nav.fixed {
     -webkit-transform: translateX(-105%);
             transform: translateX(-105%);
