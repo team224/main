@@ -73,12 +73,12 @@ p {
     top: 0;
   }
 }
-@media (min-width:994px) {
+@media (min-width:1534px) {
     .desktop-only {
         display:block !important;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 1532px) {
     .mobile-only {
         display:block !important;
     }
